@@ -1,4 +1,5 @@
----JOINING THE DATA 
+---JOINING THE DATA
+---the data were gotten from https://www.kaggle.com/datasets/nbahago/shoes-data
 
 
 SELECT*
